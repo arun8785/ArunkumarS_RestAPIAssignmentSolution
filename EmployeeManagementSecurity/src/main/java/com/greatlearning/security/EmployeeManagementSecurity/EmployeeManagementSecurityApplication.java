@@ -1,0 +1,13 @@
+package com.greatlearning.security.EmployeeManagementSecurity;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EmployeeManagementSecurityApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EmployeeManagementSecurityApplication.class, args);
+	}
+
+}
